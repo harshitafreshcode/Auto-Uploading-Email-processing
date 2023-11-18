@@ -1,0 +1,13 @@
+{
+    "type": "service_account",
+    "project_id": "login-with-goggle-398805",
+    "private_key_id": "1d818cee7c1416f485eefeef462bac61b42a0311",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyoo0566teT5Jb\n/eHB0+Qycwu2S4mfdFSFIsG1ggIQ9LRa2d68yr0HiCHuZPZm/OTQuo4NFADwb1sD\nwrao3gLmzS9xFFvE/AKhCQWdY+Be1tQWjH33H1KbauWrBpIvlNCNdMV4UselurBJ\nvCfh8XcqtaWRey6WdUZweI+9zzAH2mZO0Crx4hkBP3e0+WRioCr5mQzS5fyfpXUb\n6BhMbhliCE9wTo/FuYjzkqTuVMZ+Fg89dLLdjN5PjX2Ma7sUbOqSOzi79lsivk19\nQHZnzGo2/HaIkhZ7yi+a4y0JFf+pf46jOwysXdcM4FZxBuYltHkgObXxO3fy6uue\nzA0XHOUVAgMBAAECggEAAgkjfV9WNykTR9xk9az1viDWZ3srl0c/prqOhREO3d6z\nOhBrpXCh01bMKWSTdBLm0HC6NjCkaxkFxNom86LMdMQuI0aCKwSpMTWCXIV0tN5g\nKxED5xLl2z+n9hLWC/GqjilTjitS7myDqxXYSYIGluEpJ1C4gPGKSwIgtziUrLFq\nrclQVTVKGYWcyAKlt0zilRjgAZJ+EThWLKakJZ3NWZeB0a+miGg4/GUJNuAhomBb\nh/68r8Ry3U71OhEq9zTjTX/Y8WIK6t+W+WL2tduf5Wpf36/rvrv7zB5WERJYgsh7\neSQIzPn+im6z3fQ0mOqAvvyBOx3lEAa/jypZSDYOEQKBgQD59aEAP3aSYXoLJ5A6\n5Uw3Z2FiOKuISMaH8bn9Kp9o9zPxKr3qkgV6/a9h/4jAhMByv554eWfJUAdIcsQT\n4B8AtJaMFVVJQ52dqq6mNHVbXgCtAD02tGDBO/Lc0sPTC6XarYCdSGItEXN6T1mc\nFX/FoFUgArcXYJ5WNjWty/Qi0QKBgQC286yvBFXKl5MjXNAa2pz8Mq8fJW3OMWeF\n+itdUaRD7oVApC5HtUClL57OfSbsYh93um7NeTr9zp64gsSflh0H6gjRdExEgsPY\n+wVc8+6l4HLr8WSumzxYe+0CucUp2O3+MlPy7Qrk8nJlV2G5fc60dojwfCRfo4UP\ndx5D9DyHBQKBgQCR2hrtCxsEBS7yjU5in2OevIsdhhXJOzXlI060hAdqdzxuz9Lr\nqfLatmZ9F19TfuLQ0jEE+UpvNGxbgOQa+N7+SWHDMbuHOZYh5vNr9hY4jxxz1jzh\ny9TdTD7FTZKIdjZ76Fuw6wimZZVtXBncssrQpWKmgA8X6//YLF+cHvNA0QKBgEbK\nrUQfqk61LhMd48ywUNRpjEfCBOYnScaW0dbPM3+xuNAVd2753KTOc2W1Ga2YHlMG\nyb8qLMBvBg2hVBHoVR1t2rGpjaVo7/1yzFV2ch6vZeiURIAnw0b91O0cEwWpUhXt\nRXyXaoLCqa87C65p1uUPhNeBQdXcAS3FyulChXU9AoGAS/fWEF3Tg9+9bhGpFmGg\nvzeMP9fhF5TMgB3ctnexOanDerDYl5U7PDdjtJuQWcZzwDMONyEhH/aCPIayq9vm\nDEf8ZjBJWmo5h7RMa0ZbFQsNzXG/W/lbdiXUMkXh61Vuq0HexHsOMMrWzh06iaiF\nnCeAMlg20nDRtCxkh5AzAdA=\n-----END PRIVATE KEY-----\n",
+    "client_email": "email-service-account@login-with-goggle-398805.iam.gserviceaccount.com",
+    "client_id": "102906947211573421608",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/email-service-account%40login-with-goggle-398805.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+}

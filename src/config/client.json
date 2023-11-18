@@ -1,0 +1,14 @@
+    {
+        "web": {
+            "client_id": "659003527104-eta4h423aua88pu5ouiled16034v6ikj.apps.googleusercontent.com",
+            "project_id": "login-with-goggle-398805",
+            "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+            "token_uri": "https://oauth2.googleapis.com/token",
+            "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+            "client_secret": "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",
+            "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/your-service-account-email%login-with-goggle-398805.iam.gserviceaccount.com",
+            "redirect_uris": [
+                "https://developers.google.com/oauthplayground"
+            ]
+        }
+    }

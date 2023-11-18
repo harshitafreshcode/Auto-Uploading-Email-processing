@@ -1,0 +1,85 @@
+openapi: 3.0.0
+info:
+  title: Sample API Swagger Demo
+  description: This is Simple CRUD Rest API swagger demo. 
+  version: 0.1.9
+servers:
+  - url: http://localhost:8083
+    description: Localhost Url
+  - url: http://staging-api.example.com
+    description: Optional server description, e.g. Internal staging server for testing
+
+components:
+  securitySchemes:
+    # ApiTokenss:        # arbitrary name for the security scheme
+          
+    #   type: http
+    #   scheme: bearer
+    
+    ApiKey:        # arbitrary name for the security scheme
+      type: apiKey
+      in: header       # can be "header", "query" or "cookie"
+      name: Authorization
+
+
+# paths:
+#   /user:
+#     get:
+#       tages:
+#        - User demo 
+#       security:
+#        - ApiTokenss: []
+#        - ApiKey: []
+#       # summary: Returns a user details by ID.
+#       # parameters:
+#       #   - name: userId
+#       #     in: path
+#       #     required: true
+#       #     description: Parameter description in CommonMark or HTML.
+#       #     schema:
+#       #       # type : integer
+#       #       # format: int64
+#       #       type: string
+#       #       example: "Users String"
+#       #       minimum: 1
+#       responses: 
+#         '200':
+#           description: OK
+
+  paths:
+  /users:
+    post:
+      summary: Creates a user.
+       security:
+       - ApiTokenss: []
+       - ApiKey: []
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                username:
+                  type: string
+      responses: 
+        '201':
+          description: Created
+
+  paths:
+  /users:
+    put:
+      summary: update a user.
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              properties:
+                username:
+                  type: string
+      responses: 
+        '200':
+          description: Updated
+
